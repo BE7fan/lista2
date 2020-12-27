@@ -1,0 +1,9 @@
+#EXTM3U
+
+
+#EXTINF: -1 logo = "http://i.imgur.com/OJ9A8fZ.png" tvg-id = "3ced803cae11086ac362282e46d8e15b" tvg-chno = "3", kbs2
+http://aqstream.com/kor/kbs2/KBS2-Stream-2
+#EXTINF: -1 tvg-logo = "https://static.iptv-epg.com/kr/KBS1.kr.png", KBS 1
+http://23.237.112.138:9083/live/lmgr218-live1/Z1/ck/Z1ckFeyBo9VzK1DFmR1-Hw==/live.m3u8
+#EXTINF: -1 tvg-logo = "https://static.iptv-epg.com/kr/KBS2.kr.png", KBS 2
+http://msl.tvbayoplus.com:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.m
